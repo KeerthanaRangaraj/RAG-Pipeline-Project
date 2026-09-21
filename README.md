@@ -177,7 +177,3 @@ is worse than one that returns nothing. Escalation rate is a reported metric, no
 - [ ] Phase 5 — Ragas harness + CI regression gate
 - [ ] Phase 6 — Docker, AWS, CI/CD
 - [ ] Phase 7 — demo UI, latency/cost table, walkthrough video
-
----
-
-**Keerthana R** — [LinkedIn](https://linkedin.com/in/<user>) · [GitHub](https://github.com/<user>)
